@@ -1,0 +1,8 @@
+https://httpbin.org/html
+https://quotes.toscrape.com/
+https://books.toscrape.com/
+https://www.python.org/
+https://golang.org/doc/
+https://httpbin.org/redirect/3
+https://httpbin.org/status/404
+https://httpbin.org/image/png
